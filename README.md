@@ -74,20 +74,3 @@ This project includes a **bar chart** created using Matplotlib, showing total qu
 > This visual insight helps identify which regions perform best in terms of product movement.
 
 ---
-##  6. Final Project Structure
-ETL_Midterm_Selmah_602/
-├── data/
-│ ├── raw_data.csv
-│ └── incremental_data.csv
-├── transformed/
-│ ├── transformed_full.csv
-│ └── transformed_incremental.csv
-├── loaded/
-│ ├── full_data.db
-│ └── incremental_data.db
-├── etl_extract.ipynb
-├── etl_transform.ipynb
-├── etl_load.ipynb
-├── README.md
-└── .gitignore
----
