@@ -1,0 +1,14 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# SQLite database and Parquet files
+*.db
+*.parquet
+loaded/
+
+# Log files
+*.log
